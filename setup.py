@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-Project_Name = "perceptron_pypi_package"
+Project_Name = "Perceptron_Pypi_package"
 Username = "Sagar-modelling"
 
 setuptools.setup(
